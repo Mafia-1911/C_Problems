@@ -38,3 +38,7 @@ int main() {
     printf("Starting Date: %s\n", employees[highestSalaryIndex].StartingDate);
     printf("Salary: %.2lf\n", employees[highestSalaryIndex].Salary);
 
+    return 0;
+}
+
+

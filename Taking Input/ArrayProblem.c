@@ -19,3 +19,7 @@ int main(){
             printf("A[%d] = %d\n",i,arr[i]);
         }
     };
+
+
+    return 0;
+}

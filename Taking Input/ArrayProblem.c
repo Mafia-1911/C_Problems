@@ -7,3 +7,9 @@ int main(){
     for(int i=0;i<1000+5;i++){
         arr[i]=15;
     }
+
+    for(int i=0;i<input;i++){
+        int temp;
+        scanf("%d",&temp);
+        arr[i]=temp;
+    };

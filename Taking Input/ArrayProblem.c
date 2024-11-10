@@ -13,3 +13,9 @@ int main(){
         scanf("%d",&temp);
         arr[i]=temp;
     };
+ for(int i=0;i<1000+5;i++){
+        if(arr[i]<=10){
+            //Wasn't checking for equal to 10 
+            printf("A[%d] = %d\n",i,arr[i]);
+        }
+    };

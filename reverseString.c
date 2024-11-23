@@ -3,7 +3,7 @@
 
 int main()
 {
-    char input[100]="abcdef";
+    char input[100]="abcdejuuuif";
     int len=strlen(input);
     for(int i=0,j=len-1;i<j;i++,j--){
         char temp=input[i];

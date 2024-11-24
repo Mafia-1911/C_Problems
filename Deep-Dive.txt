@@ -1,0 +1,5 @@
+Why theres a # sign in Include 
+- Its a pre processor directive , It loads the necessary driver functions before the program compiles . Giving a leverage in performance 
+
+How does it include?
+- It just replaces the things in the 

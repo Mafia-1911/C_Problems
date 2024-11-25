@@ -3,3 +3,10 @@ Why theres a # sign in Include
 
 How does it include?
 - It just replaces the things in the 
+
+Have a questioning mindset ? 
+- Ask how does the printf function work internally , thats what sets you apart 
+Knowing how to learn is the key thing here , If you know how to learn You can easily switch in between . 
+
+
+
